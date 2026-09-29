@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://github.com/FajarKim"><img src="images/photo-profile.png" width="130" alt="Fajar Kim"></a>
-  <h2>Fajar Kim</h2>
+  <a href="[https://github.com/FajarKim](https://github.com/smitlabquetta)"><img src="https://hammad.internee.pk//assets/img/hero/hammad-3d.png" width="130" alt="Fajar Kim"></a>
+  <h2>Hammad Sheikh</h2>
 </div>
 
 Hello everyone 👋🏻! I'm Rangga, you can call me Fajar 😊. I come from Garut, West Java, Indonesia 🇮🇩. I am a student of Science programme ⚗️ 🔬. In the world of programming, I prefer to create encrypting codes for several programming languages. Greetings everyone!!!
