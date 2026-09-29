@@ -31,4 +31,4 @@ Have any questions for me? Or do you want to raise any issues related to problem
 
 ![Line](images/line.svg)
 
-<p align="center"><sub>Made with ❤️</br>Copyright © 2023-present Rangga Fajar Oktariansyah</sub></p>
+<p align="center"><sub>Made with ❤️</br>Copyright © 2026 By Hammad Sheikh Bin Nadeem</sub></p>
