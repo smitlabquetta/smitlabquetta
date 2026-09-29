@@ -9,10 +9,10 @@ Oh, do you need an Software Solution? Feel free to chat with me. Insyaa Allah, I
 
 <div align="center">
 
-[![Visit Website](https://img.shields.io/badge/Visit%20Website-fajarkim.github.io%20%E2%86%92-blue?style=for-the-badge&labelColor=302d41&color=b7bdf8)](https://fajarkim.github.io)
+[![Visit Website](https://img.shields.io/badge/Visit%20Website-fajarkim.github.io%20%E2%86%92-blue?style=for-the-badge&labelColor=302d41&color=b7bdf8)](https://hammad.internee.pk/)
 </div>
 
-<a href="https://github.com/smitlabquetta"><img src="https://github-readme-stats.vercel.app/api?username=FajarKim&title_color=8bd5ca&text_color=cad3f5&icon_color=c6a0f6&bg_color=24273a&show_icons=true" alt="Stat's Card" width="100%"></a>
+<a href="https://github.com/smitlabquetta"><img src="https://github-readme-stats.vercel.app/api?username=smitlabquetta&title_color=8bd5ca&text_color=cad3f5&icon_color=c6a0f6&bg_color=24273a&show_icons=true" alt="Stat's Card" width="100%"></a>
 
 <a href="https://github.com/FajarKim"><img src="https://streak-stats.demolab.com?user=FajarKim&theme=catppuccin-macchiato" alt="Streak's Card" width="100%"></a>
 
