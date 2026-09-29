@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="[https://github.com/FajarKim](https://github.com/smitlabquetta)"><img src="https://media.licdn.com/dms/image/v2/D4D22AQFEPLG7Qp085A/feedshare-shrink_800/B4DZgeRLn8GgAo-/0/1752854532002?e=2147483647&v=beta&t=oxbZ_iov2mnLstqDxOad3ErNJHapsxgv4GhGdgIEAao" width="130" alt="Fajar Kim"></a>
+  <a href="[https://github.com/FajarKim](https://github.com/smitlabquetta)"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjB4aTlrcmVhNWFpNDA4NTE0bDdxN3J1c2R2ajg0NDlqaHJ1ODYyZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/P8ef3Dkynk0xLx1h1T/giphy.gif" width="130" alt="Fajar Kim"></a>
   <h2>Hammad Sheikh Bin Nadeem</h2>
 </div>
 
