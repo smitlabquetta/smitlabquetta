@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="[https://github.com/FajarKim](https://github.com/smitlabquetta)"><img src="https://hammad.internee.pk/assets/img/hero/hammad-3d.png" width="130" alt="Fajar Kim"></a>
+  <a href="[https://github.com/FajarKim](https://github.com/smitlabquetta)"><img src="https://media.licdn.com/dms/image/v2/D4D22AQFEPLG7Qp085A/feedshare-shrink_800/B4DZgeRLn8GgAo-/0/1752854532002?e=2147483647&v=beta&t=oxbZ_iov2mnLstqDxOad3ErNJHapsxgv4GhGdgIEAao" width="130" alt="Fajar Kim"></a>
   <h2>Hammad Sheikh</h2>
 </div>
 
