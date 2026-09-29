@@ -1,11 +1,11 @@
 <div align="center">
   <a href="[https://github.com/FajarKim](https://github.com/smitlabquetta)"><img src="https://media.licdn.com/dms/image/v2/D4D22AQFEPLG7Qp085A/feedshare-shrink_800/B4DZgeRLn8GgAo-/0/1752854532002?e=2147483647&v=beta&t=oxbZ_iov2mnLstqDxOad3ErNJHapsxgv4GhGdgIEAao" width="130" alt="Fajar Kim"></a>
-  <h2>Hammad Sheikh</h2>
+  <h2>Hammad Sheikh Bin Nadeem</h2>
 </div>
 
-Hello everyone 👋🏻! I'm Rangga, you can call me Fajar 😊. I come from Garut, West Java, Indonesia 🇮🇩. I am a student of Science programme ⚗️ 🔬. In the world of programming, I prefer to create encrypting codes for several programming languages. Greetings everyone!!!
+Hello everyone 👋🏻! I'm Hammad Sheikh, a prominent Pakistani tech entrepreneur, Generative AI engineer, and the Founder and CEO of Internee.pk. He is widely recognized for his work in advancing AI education, mentoring young tech talent, and building automated digital solutions.
 
-Oh, do you need an Indonesian translator? Feel free to chat with me. Insyaa Allah, I will do it well 😉
+Oh, do you need an Software Solution? Feel free to chat with me. Insyaa Allah, I will do it well 😉
 
 <div align="center">
 
