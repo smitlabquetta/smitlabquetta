@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="[https://github.com/FajarKim](https://github.com/smitlabquetta)"><img src="https://hammad.internee.pk//assets/img/hero/hammad-3d.png" width="130" alt="Fajar Kim"></a>
+  <a href="[https://github.com/FajarKim](https://github.com/smitlabquetta)"><img src="https://hammad.internee.pk/assets/img/hero/hammad-3d.png" width="130" alt="Fajar Kim"></a>
   <h2>Hammad Sheikh</h2>
 </div>
 
