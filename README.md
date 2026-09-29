@@ -12,7 +12,6 @@ Oh, do you need an Software Solution? Feel free to chat with me. Insyaa Allah, I
 [![Visit Website](https://img.shields.io/badge/Visit%20Website-hammad.internee.pk%20%E2%86%92-blue?style=for-the-badge&labelColor=302d41&color=b7bdf8)](https://hammad.internee.pk/)
 </div>
 
-<a href="https://github.com/FajarKim"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=FajarKim&title_color=8bd5ca&text_color=cad3f5&icon_color=c6a0f6&bg_color=24273a&langs_count=20&layout=donut-vertical&hide_border=false&exclude_repo=fajarkim.github.io,FajarKim" alt="Top Langs Card" width="100%"></a>
 
 ## Contact Me
 Have any questions for me? Or do you want to raise any issues related to problems with this tool? Feel free to contact me using the information below 😉
@@ -23,19 +22,10 @@ Have any questions for me? Or do you want to raise any issues related to problem
 [![Email](images/icons/mail-icon.svg)](mailto:fajarrkim@gmail.com)
 [![Telegram](images/icons/telegram-icon.svg)](https://t.me/FajarThea)
 [![Messenger](images/icons/messenger-icon.svg)](https://m.me/fajarrkim)
-</div>
-
-## Media Social
-Do you want to check out my social media accounts? Okayy, feel free to click the links below 😎
-
-<div align="center">
-
 [![Facebook](images/icons/facebook-icon.svg)](https://facebook.com/fajarrkim)
 [![Instagram](images/icons/instagram-icon.svg)](https://instagram.com/fajarkim_)
-[![Twitter](images/icons/twitter-x-icon.svg)](https://twitter.com/fajarkim_)
-[![TikTok](images/icons/tiktok-icon.svg)](https://tiktok.com/@fajarkim_)
-[![YouTube](images/icons/youtube-icon.svg)](https://youtube.com/@FajarHacker)
 </div>
+
 
 ## Donate
 Love my project? Please consider donating to help it improve!
